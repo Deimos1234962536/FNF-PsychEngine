@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LofieIdle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LofieDown0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LofieUp0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-47
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LofieRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LofieLeft0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lofie",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lofie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		222
+	],
+	"camera_position": [
+		0,
+		180
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

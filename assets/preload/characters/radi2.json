@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				44,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Radi_Idle2 0"
+		},
+		{
+			"offsets": [
+				120,
+				162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Radi_Left20"
+		},
+		{
+			"offsets": [
+				376,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Radi_Right20"
+		},
+		{
+			"offsets": [
+				100,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Radi_Up20"
+		},
+		{
+			"offsets": [
+				210,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Radi_Down20"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Radi_Assets2",
+	"position": [
+		-240,
+		70
+	],
+	"healthicon": "radi2",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		255,
+		31
+	],
+	"camera_position": [
+		-230,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
