@@ -1,0 +1,8 @@
+@wait time="1s"
+@dialogue pos="L" portrait="lofie1:hi" nameTag="-Lofie-" text="Hello. Good evening, mister!"
+@dialogue pos="R" portrait="radibf" nameTag="-BF-" text="Beep!"
+@dialogue pos="L" portrait="lofie1:question" nameTag="-Lofie-" text="Please pardon my interruption, but have you by any chance\nseen this person?"
+@dialogue pos="L" portrait="lofie1:missing" nameTag="-Lofie-" text="He is my brother, and I'm looking for him."
+@dialogue pos="R" portrait="radibf" nameTag="-BF-" text="Oh... Bep!"
+@dialogue pos="L" portrait="lofie1:gotinfo" nameTag="-Lofie-" text="Wait... really? You've seen him!?..."
+@dialogue pos="L" portrait="lofie1:gotinfo" nameTag="-Lofie-" text="Do you know where he is?"

@@ -1,0 +1,12 @@
+@hidePanels
+@bgChange src="dialogue/lofie/d1p1" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="4s"
+@showPanels
+@bgChange src="dialogue/lofie/d1p2" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="lofie" nameTag="" text="\n\nSigh... It seems it's getting late already."
+@hidePanels
+@wait time="0.25s"
+@showPanels
+@dialogue pos="L" portrait="lofie" nameTag="" text="\nI can't believe I still haven't found my brother after so long.\nI have no clue of where he could be!"
+@bgChange src="dialogue/lofie/d1p3" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="0.2s" focused="true"
+@dialogue pos="L" portrait="lofie" nameTag="" text="\n\nOh?" speed="0"

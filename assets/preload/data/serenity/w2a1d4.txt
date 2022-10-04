@@ -1,0 +1,8 @@
+@wait time="0.5s"
+@dialogue pos="R" portrait="radibf:oops" nameTag="-BF-" text=". . ." speed="0.25"
+@dialogue pos="L" portrait="lofie1:missing" nameTag="-Lofie-" text="Is something wrong?"
+@dialogue pos="R" portrait="radibf:daring" nameTag="-BF-" text="Beep bo pip!"
+@dialogue pos="L" portrait="lofie1:confused" nameTag="-Lofie-" text="You... want me to sing for it?"
+@dialogue pos="R" portrait="radibf" nameTag="-BF-" text="Yep!"
+@dialogue pos="L" portrait="lofie1:confused" nameTag="-Lofie-" text="Well, if it is for the sake of finding my brother, I guess\nit's alright."
+@dialogue pos="L" portrait="lofie1:happy" nameTag="-Lofie-" text="And besides, it does sound like fun. Let's go!"

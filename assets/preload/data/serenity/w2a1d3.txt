@@ -1,0 +1,2 @@
+@bgChange src="dialogue/lofie/d2p1" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="radi" nameTag="" text="Don't tell my sister I'm here.\nI need her to stay away from me, at least for now.\nThis is for her own good."
