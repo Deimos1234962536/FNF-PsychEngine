@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lofie.png">
+	<!-- Created with DragShot's Funkin Atlas Repacker -->
+	<SubTexture name="anxious0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="concerned0000" x="0" y="1082" width="1920" height="1080"/>
+	<SubTexture name="confused0000" x="0" y="2164" width="1920" height="1080"/>
+	<SubTexture name="cry0000" x="0" y="3246" width="1920" height="1080"/>
+	<SubTexture name="default0000" x="0" y="4328" width="1920" height="1080"/>
+	<SubTexture name="gotinfo0000" x="0" y="5410" width="1920" height="1080"/>
+	<SubTexture name="happy0000" x="0" y="6492" width="1920" height="1080"/>
+	<SubTexture name="happycry0000" x="0" y="7574" width="1920" height="1080"/>
+	<SubTexture name="hey0000" x="0" y="8656" width="1920" height="1080"/>
+	<SubTexture name="hi0000" x="0" y="9738" width="1920" height="1080"/>
+	<SubTexture name="letsgo0000" x="0" y="10820" width="1920" height="1080"/>
+	<SubTexture name="missing0000" x="0" y="11902" width="1920" height="1080"/>
+	<SubTexture name="nostalgic0000" x="0" y="12984" width="1920" height="1080"/>
+	<SubTexture name="oh0000" x="0" y="14066" width="1920" height="1080"/>
+	<SubTexture name="question0000" x="0" y="15148" width="1920" height="1080"/>
+	<SubTexture name="sad0000" x="0" y="16230" width="1920" height="1080"/>
+	<SubTexture name="sob0000" x="0" y="17312" width="1920" height="1080"/>
+</TextureAtlas>

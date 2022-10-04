@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lofie1.png">
+	<!-- Created with DragShot's Funkin Atlas Repacker -->
+	<SubTexture name="confused0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="gotinfo0000" x="1922" y="0" width="1920" height="1080"/>
+	<SubTexture name="happy0000" x="3844" y="0" width="1920" height="1080"/>
+	<SubTexture name="hi0000" x="0" y="1082" width="1920" height="1080"/>
+	<SubTexture name="letsgo0000" x="1922" y="1082" width="1920" height="1080"/>
+	<SubTexture name="missing0000" x="3844" y="1082" width="1920" height="1080"/>
+	<SubTexture name="nostalgic0000" x="0" y="2164" width="1920" height="1080"/>
+	<SubTexture name="oh0000" x="1922" y="2164" width="1920" height="1080"/>
+	<SubTexture name="question0000" x="3844" y="2164" width="1920" height="1080"/>
+</TextureAtlas>

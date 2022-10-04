@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="radi.png">
+	<!-- Created with DragShot's Funkin Atlas Repacker -->
+	<SubTexture name="bruh0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="default0000" x="0" y="1082" width="1920" height="1080"/>
+	<SubTexture name="dontfuckitup0000" x="0" y="2164" width="1920" height="1080"/>
+	<SubTexture name="grr0000" x="0" y="3246" width="1920" height="1080"/>
+	<SubTexture name="holdit0000" x="0" y="4328" width="1920" height="1080"/>
+	<SubTexture name="hurtdown0000" x="0" y="5410" width="1920" height="1080"/>
+	<SubTexture name="hurtfront0000" x="0" y="6492" width="1920" height="1080"/>
+	<SubTexture name="shout0000" x="0" y="7574" width="1920" height="1080"/>
+	<SubTexture name="ugh0000" x="0" y="8656" width="1920" height="1080"/>
+	<SubTexture name="weary0000" x="0" y="9738" width="1920" height="1080"/>
+	<SubTexture name="whoa0000" x="0" y="10820" width="1920" height="1080"/>
+</TextureAtlas>

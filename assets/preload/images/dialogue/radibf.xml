@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="radibf.png">
+	<!-- Created with DragShot's Funkin Atlas Repacker -->
+	<SubTexture name="ahem0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="daring0000" x="0" y="1082" width="1920" height="1080"/>
+	<SubTexture name="default0000" x="0" y="2164" width="1920" height="1080"/>
+	<SubTexture name="hmm0000" x="0" y="3246" width="1920" height="1080"/>
+	<SubTexture name="nervous0000" x="0" y="4328" width="1920" height="1080"/>
+	<SubTexture name="oops0000" x="0" y="5410" width="1920" height="1080"/>
+	<SubTexture name="pointback0000" x="0" y="6492" width="1920" height="1080"/>
+	<SubTexture name="scared0000" x="0" y="7574" width="1920" height="1080"/>
+	<SubTexture name="why0000" x="0" y="8656" width="1920" height="1080"/>
+	<SubTexture name="yowait0000" x="0" y="9738" width="1920" height="1080"/>
+</TextureAtlas>
