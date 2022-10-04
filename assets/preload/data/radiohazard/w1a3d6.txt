@@ -1,0 +1,4 @@
+@bgChange src="dialogue/radi/d4p4" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="radi" nameTag="" text="That is not the end of my problems, however.\nThere is also this group, the Deadly Muzix, who have\nbeen after me for a while."
+@bgChange src="dialogue/radi/d4p5" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="0.5s" focused="true"
+@dialogue pos="L" portrait="radi" nameTag="" text="\nEspecially Ezra and Aori. Those two intend to kill me and\ntake my Soul-Genre for themselves."

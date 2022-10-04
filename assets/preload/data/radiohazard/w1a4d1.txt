@@ -1,0 +1,16 @@
+@hidePanels
+@wait time="1s"
+@playSound tag="city" src="citybusy"
+@bgChange src="dialogue/radi/d5p1" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="4s"
+@bgChange src="dialogue/radi/d5p2" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="4s"
+@bgChange src="dialogue/radi/d5p3" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="0.5s" focused="false"
+@showPanels
+@dialogue pos="L" portrait="lofie" nameTag="" text="\nExcuse me, sir... Sir!\nCan I ask you something?"
+@bgChange src="dialogue/radi/d5p4" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="0.5s" focused="true"
+@dialogue pos="L" portrait="lofie" nameTag="" text="\n\nHave you seen my brother?"
+@hidePanels
+@stopSound tag="city"
+@bgChange src="ds/dialogue/spacer" pos="-10,-10" scale="1,1" transition="colorfade" time="2s" focused="true" color="000000"
+@showPanels

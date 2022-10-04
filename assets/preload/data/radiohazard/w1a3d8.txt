@@ -1,0 +1,16 @@
+@hidePanels
+@wait time="1s"
+@playSound tag="wind" src="wind_blowing"
+@bgChange src="dialogue/radi/d4p6" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="4s"
+@bgChange src="dialogue/radi/d4p7" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="4s"
+@bgChange src="dialogue/radi/d4p8" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@showPanels
+@dialogue pos="L" portrait="radi" nameTag="" text="\nWhen will this end? Will I ever be free again?\nI don't know."
+@bgChange src="dialogue/radi/d4p9" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="0.5s" focused="true"
+@dialogue pos="L" portrait="radi" nameTag="" text="\nAll I know is I'm sorry. I can't go back home with you, Lofie.\nI just want you to be safe..."
+@hidePanels
+@stopSound tag="wind"
+@bgChange src="ds/dialogue/spacer" pos="-10,-10" scale="1,1" transition="colorfade" time="2s" focused="true" color="000000"
+@showPanels

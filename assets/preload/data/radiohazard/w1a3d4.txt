@@ -1,0 +1,3 @@
+@bgChange src="dialogue/radi/d4p3" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="radi" nameTag="" text="\nPurple skin, dark wavy hair, and crimson glowing eyes.\nThose belong to the man who did this to me."
+@bgChange src="ds/dialogue/spacer" pos="-10,-10" scale="1,1" transition="colorfade" time="2s" focused="true" color="FFFFFF"

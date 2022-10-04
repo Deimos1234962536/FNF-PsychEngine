@@ -1,0 +1,4 @@
+@bgChange src="ds/dialogue/skins/radi/blur_bg_2" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="radi:hurtdown" nameTag="-Radi-" text="I almost died that day, but in the end the outcome was\narguably worse."
+@dialogue pos="R" portrait="radibf:hmm" nameTag="-BF-" text="Beep?"
+@dialogue pos="L" portrait="radi:hurtdown" nameTag="-Radi-" text="This curse is slowly consuming me whole, so I need to\nundo it somehow."

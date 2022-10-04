@@ -1,0 +1,5 @@
+@wait time="0.75s"
+@bgChange src="dialogue/radi/d4p1" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="radi" nameTag="" text="\n\nAhk~ it h-hurts... Please... help..."
+@bgChange src="dialogue/radi/d4p2" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="0.5s" focused="true"
+@dialogue pos="L" portrait="radibf" nameTag="" text="\n\nBop!"
