@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Smoke.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RadiFartAnim0000" x="15" y="15" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0001" x="1310" y="15" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0002" x="2605" y="15" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0003" x="3900" y="15" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0004" x="5195" y="15" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0005" x="6490" y="15" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0006" x="15" y="738" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0007" x="1310" y="738" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0008" x="2605" y="738" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0009" x="3900" y="738" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0010" x="5195" y="738" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0011" x="6490" y="738" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0012" x="15" y="1461" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0013" x="1310" y="1461" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0014" x="2605" y="1461" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0015" x="3900" y="1461" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0016" x="5195" y="1461" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0017" x="6490" y="1461" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0018" x="15" y="2184" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0019" x="1310" y="2184" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0020" x="2605" y="2184" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0021" x="3900" y="2184" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0022" x="5195" y="2184" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0023" x="6490" y="2184" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0024" x="15" y="2907" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0025" x="1310" y="2907" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0026" x="2605" y="2907" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0027" x="3900" y="2907" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0028" x="5195" y="2907" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0029" x="6490" y="2907" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0030" x="15" y="3630" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0031" x="1310" y="3630" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0032" x="2605" y="3630" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0033" x="3900" y="3630" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0034" x="5195" y="3630" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0035" x="6490" y="3630" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0036" x="15" y="4353" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0037" x="1310" y="4353" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0038" x="2605" y="4353" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0039" x="3900" y="4353" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0040" x="5195" y="4353" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0041" x="6490" y="4353" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0042" x="15" y="5076" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0043" x="1310" y="5076" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0044" x="2605" y="5076" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0045" x="3900" y="5076" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0046" x="5195" y="5076" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0047" x="6490" y="5076" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0048" x="15" y="5799" width="1280" height="708"/>
+	<SubTexture name="RadiFartAnim0049" x="15" y="15" width="1280" height="708"/>
+</TextureAtlas>
