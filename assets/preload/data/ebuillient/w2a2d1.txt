@@ -1,0 +1,8 @@
+@wait time="1s"
+@dialogue pos="L" portrait="lofie1:letsgo" nameTag="-Lofie-" text="Ha ha ha... this is so much fun! It's been a long time since\nI last sang like this."
+@dialogue pos="L" portrait="lofie1:happy" nameTag="-Lofie-" text="You people here do some interesting things with music. I\nreally like this place!"
+@dialogue pos="L" portrait="lofie1:nostalgic" nameTag="-Lofie-" text="This reminds me of the songs I used to sing with my brother.\nOh, how I miss those days..."
+@dialogue pos="R" portrait="radibf:daring" nameTag="-BF-" text="Bop pap! Bape boop pi pa bep?"
+@dialogue pos="L" portrait="lofie1:oh" nameTag="-Lofie-" text="Oh... again?"
+@dialogue pos="R" portrait="radibf" nameTag="-BF-" text="Yeah!"
+@dialogue pos="L" portrait="lofie1:letsgo" nameTag="-Lofie-" text="Well, I would be lying if I didn't admit I'm having fun with\nthis so... yeah, another song!"
