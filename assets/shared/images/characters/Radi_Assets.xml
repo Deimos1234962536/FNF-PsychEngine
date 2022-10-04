@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Radi_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Radi_Down0000" x="15" y="15" width="1084" height="691" frameX="-19" frameY="-19" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0001" x="15" y="15" width="1084" height="691" frameX="-19" frameY="-19" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0002" x="1114" y="15" width="1094" height="698" frameX="0" frameY="-10" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0003" x="1114" y="15" width="1094" height="698" frameX="0" frameY="-10" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0004" x="2223" y="15" width="1079" height="707" frameX="-17" frameY="-1" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0005" x="2223" y="15" width="1079" height="707" frameX="-17" frameY="-1" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0006" x="3317" y="15" width="1083" height="708" frameX="-18" frameY="0" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0007" x="3317" y="15" width="1083" height="708" frameX="-18" frameY="0" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0008" x="4415" y="15" width="1085" height="708" frameX="-17" frameY="0" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0009" x="4415" y="15" width="1085" height="708" frameX="-17" frameY="0" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0010" x="4415" y="15" width="1085" height="708" frameX="-17" frameY="0" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0011" x="4415" y="15" width="1085" height="708" frameX="-17" frameY="0" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0012" x="4415" y="15" width="1085" height="708" frameX="-17" frameY="0" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0013" x="4415" y="15" width="1085" height="708" frameX="-17" frameY="0" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Down0014" x="4415" y="15" width="1085" height="708" frameX="-17" frameY="0" frameWidth="1103" frameHeight="710"/>
+	<SubTexture name="Radi_Idle0000" x="5515" y="15" width="907" height="1001" frameX="0" frameY="-12" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0001" x="6437" y="15" width="907" height="1001" frameX="0" frameY="-12" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0002" x="15" y="1031" width="880" height="1006" frameX="-9" frameY="-7" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0003" x="910" y="1031" width="880" height="1006" frameX="-9" frameY="-7" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0004" x="1805" y="1031" width="864" height="1012" frameX="-12" frameY="-1" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0005" x="2684" y="1031" width="864" height="1012" frameX="-12" frameY="-1" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0006" x="3563" y="1031" width="854" height="1012" frameX="-18" frameY="-1" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0007" x="4432" y="1031" width="854" height="1012" frameX="-18" frameY="-1" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0008" x="5301" y="1031" width="854" height="1013" frameX="-18" frameY="0" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0009" x="6170" y="1031" width="854" height="1013" frameX="-18" frameY="0" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0010" x="7039" y="1031" width="854" height="1013" frameX="-18" frameY="0" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0011" x="15" y="2059" width="854" height="1013" frameX="-18" frameY="0" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0012" x="884" y="2059" width="854" height="1013" frameX="-18" frameY="0" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Idle0013" x="1753" y="2059" width="854" height="1013" frameX="-18" frameY="0" frameWidth="907" frameHeight="1013"/>
+	<SubTexture name="Radi_Left0000" x="2622" y="2059" width="1130" height="1005"/>
+	<SubTexture name="Radi_Left0001" x="2622" y="2059" width="1130" height="1005"/>
+	<SubTexture name="Radi_Left0002" x="3767" y="2059" width="1110" height="1004" frameX="-17" frameY="-1" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0003" x="3767" y="2059" width="1110" height="1004" frameX="-17" frameY="-1" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0004" x="4892" y="2059" width="1080" height="1003" frameX="-29" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0005" x="4892" y="2059" width="1080" height="1003" frameX="-29" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0006" x="5987" y="2059" width="1060" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0007" x="5987" y="2059" width="1060" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0008" x="7062" y="2059" width="1055" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0009" x="7062" y="2059" width="1055" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0010" x="7062" y="2059" width="1055" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0011" x="7062" y="2059" width="1055" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0012" x="7062" y="2059" width="1055" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0013" x="7062" y="2059" width="1055" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0014" x="7062" y="2059" width="1055" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0015" x="7062" y="2059" width="1055" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Left0016" x="7062" y="2059" width="1055" height="1003" frameX="-32" frameY="-2" frameWidth="1130" frameHeight="1005"/>
+	<SubTexture name="Radi_Right0000" x="15" y="3087" width="1319" height="935" frameX="-68" frameY="0" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0001" x="15" y="3087" width="1319" height="935" frameX="-68" frameY="0" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0002" x="1349" y="3087" width="1342" height="932" frameX="-42" frameY="-3" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0003" x="2706" y="3087" width="1342" height="932" frameX="-42" frameY="-3" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0004" x="4063" y="3087" width="1340" height="917" frameX="-36" frameY="-18" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0005" x="4063" y="3087" width="1340" height="917" frameX="-36" frameY="-18" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0006" x="5418" y="3087" width="1374" height="919" frameX="-1" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0007" x="5418" y="3087" width="1374" height="919" frameX="-1" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0008" x="15" y="4037" width="1375" height="919" frameX="0" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0009" x="15" y="4037" width="1375" height="919" frameX="0" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0010" x="1405" y="4037" width="1375" height="919" frameX="0" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0011" x="1405" y="4037" width="1375" height="919" frameX="0" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0012" x="1405" y="4037" width="1375" height="919" frameX="0" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0013" x="1405" y="4037" width="1375" height="919" frameX="0" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0014" x="1405" y="4037" width="1375" height="919" frameX="0" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0015" x="1405" y="4037" width="1375" height="919" frameX="0" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Right0016" x="1405" y="4037" width="1375" height="919" frameX="0" frameY="-16" frameWidth="1387" frameHeight="935"/>
+	<SubTexture name="Radi_Up0000" x="2795" y="4037" width="989" height="1050" frameX="-10" frameY="0" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0001" x="2795" y="4037" width="989" height="1050" frameX="-10" frameY="0" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0002" x="3799" y="4037" width="989" height="1048" frameX="-19" frameY="-1" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0003" x="3799" y="4037" width="989" height="1048" frameX="-19" frameY="-1" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0004" x="4803" y="4037" width="988" height="1038" frameX="-5" frameY="-11" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0005" x="4803" y="4037" width="988" height="1038" frameX="-5" frameY="-11" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0006" x="5806" y="4037" width="989" height="1030" frameX="0" frameY="-19" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0007" x="5806" y="4037" width="989" height="1030" frameX="0" frameY="-19" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0008" x="6810" y="4037" width="988" height="1029" frameX="-5" frameY="-20" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0009" x="6810" y="4037" width="988" height="1029" frameX="-5" frameY="-20" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0010" x="6810" y="4037" width="988" height="1029" frameX="-5" frameY="-20" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0011" x="6810" y="4037" width="988" height="1029" frameX="-5" frameY="-20" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0012" x="6810" y="4037" width="988" height="1029" frameX="-5" frameY="-20" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0013" x="6810" y="4037" width="988" height="1029" frameX="-5" frameY="-20" frameWidth="1008" frameHeight="1050"/>
+	<SubTexture name="Radi_Up0014" x="6810" y="4037" width="988" height="1029" frameX="-5" frameY="-20" frameWidth="1008" frameHeight="1050"/>
+</TextureAtlas>
