@@ -1,0 +1,5 @@
+@hidePanels
+@bgChange src="dialogue/radi/d2p1" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="1.7s"
+@bgChange src="dialogue/radi/d2p2" pos="-10,-10" scale="0.65,0.65" transition="shake" time="1.25s" focused="false"
+@dialogue pos="L" portrait="radi" nameTag="" text="\n\nWhat's wrong with you!?"
