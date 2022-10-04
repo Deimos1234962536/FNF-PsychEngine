@@ -1,0 +1,39 @@
+@hidePanels
+@bgChange src="dialogue/radi/d1p1" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="4s"
+@bgChange src="dialogue/radi/d1p2" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="4s"
+@bgChange src="dialogue/radi/d1p3" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="4s"
+@bgChange src="dialogue/radi/d1p4" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@wait time="4s"
+@bgChange src="dialogue/radi/d1p5" pos="-10,-10" scale="0.65,0.65" transition="colorfade" time="2s" focused="true" color="000000"
+@wait time="4s"
+@showPanels
+@bgChange src="dialogue/radi/d1p6" pos="-10,-10" scale="0.65,0.65" transition="crossfade" time="1s" focused="true"
+@dialogue pos="L" portrait="radi" nameTag="" text="\n\nIt's been a while since this hunt began."
+@hidePanels
+@wait time="0.25s"
+@showPanels
+@dialogue pos="L" portrait="radi" nameTag="" text="\nI do not know how long it will last, but hopefully I will\nstay out of their reach for long enough by hiding here."
+@bgChange src="dialogue/radi/d1p7" pos="-10,-10" scale="0.65,0.65" transition="colorfade" time="2s" focused="true" color="FFFFFF"
+@dialogue pos="L" portrait="radi" nameTag="" text="\nEzra and the Deadly Muzix... I won't forget what they\nhave done to me. To her."
+@hidePanels
+@wait time="0.25s"
+@showPanels
+@dialogue pos="L" portrait="radi" nameTag="" text="\nAt least I'm in a safe place now...\nor that is what it was supposed to be."
+@bgChange src="dialogue/radi/d1p8" pos="-10,-10" scale="0.65,0.65" transition="colorfade" time="2s" focused="true" color="000000"
+@dialogue pos="L" portrait="radi" nameTag="" text="\nHad it not been for the curse that demon guy cast on me,\nthings would have gone according to plan."
+@hidePanels
+@wait time="0.25s"
+@showPanels
+@dialogue pos="L" portrait="radi" nameTag="" text="\n\nI cannot let go of that either, the scar on my face won't let me."
+@hidePanels
+@wait time="0.25s"
+@showPanels
+@dialogue pos="L" portrait="radi" nameTag="" text="\nI may not know how, but I will get back at him\nfor this... someday."
+@bgChange src="dialogue/radi/d1p9" pos="-10,-10" scale="0.65,0.65" transition="none"
+@hidePanels
+@wait time="0.25s"
+@showPanels
+@dialogue pos="L" portrait="radibf" nameTag="" text="\n\nBeep!" speed="0"

@@ -1,0 +1,11 @@
+--This is a comment left for the editor of turn
+@wait time="1s"
+@dialogue pos="L" portrait="radi:whoa" nameTag="-Radi-" text="What the-?"
+@dialogue pos="L" portrait="radi:holdit" nameTag="-Radi-" text="Who are you? How did you get here?"
+@dialogue pos="L" portrait="radi:holdit" nameTag="-Radi-" text="This is no safe place for the likes of you two. Get\nout!"
+@dialogue pos="R" portrait="radibf" nameTag="-BF-" text="Beep skob bop"
+@dialogue pos="L" portrait="radi:ugh" nameTag="-Radi-" text="..." speed="0.5"
+@dialogue pos="L" portrait="radi:shout" nameTag="-Radi-" text="Baka! Don't you see the sign over there? Did your\nparents not teach you how to read?"
+@dialogue pos="R" portrait="radibf" nameTag="-BF-" text="Bop skee ba pe pii"
+@dialogue pos="L" portrait="radi:bruh" nameTag="-Radi-" text="Seriously? You don't even know who I am. Just turn\naround and leave me alone."
+@dialogue pos="R" portrait="radibf:daring" nameTag="-BF-" text="Bop skee ba pe pii"
