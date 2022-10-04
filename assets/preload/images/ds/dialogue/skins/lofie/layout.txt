@@ -1,0 +1,8 @@
+@background src="ds/dialogue/skins/lofie/blur_bg" pos="-10,-10" scale="0.65,0.65" color="DDEEDD"
+@portrait posL="0,-20" posR="0,-20" slide="50" scale="0.6852,0.6852"
+@dbox pref="ds/dialogue/skins/lofie/dbox_" pos="0,0" scale="1,1"
+@bgName posL="1290,0" posR="1290,0" scale="1,1"
+@lblName posL="62,522" posR="62,522" width="1156" font="Hack-Bold.ttf" fontSize="32" textAlign="left" color="F193AB" border="000000"
+@txtDiagText pos="62,567" width="1156" lineHeight="38" font="Hack-Bold.ttf" fontSize="32" textAlign="left" color="FFFFFF" border="000000"
+@btnNext src="ds/dialogue/skins/default/btn_next" pos="1290,635" scale="1.5,1.5"
+--@btnSkip src="ds/dialogue/btn_skip" pos="978,30" scale="1,1"
