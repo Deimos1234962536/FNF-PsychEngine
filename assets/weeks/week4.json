@@ -1,0 +1,40 @@
+{
+	"storyName": "Bittersweet Badinage",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "lofie",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"nagusame",
+			"lofie",
+			[
+				255,
+				171,
+				240
+			]
+		],
+		[
+			"serendipity",
+			"lofie",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}
