@@ -1,0 +1,40 @@
+{
+	"storyName": "Bittersweet Badinage",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "lofie",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"serenity",
+			"lofie",
+			[
+				255,
+				171,
+				240
+			]
+		],
+		[
+			"ebuillient",
+			"lofie",
+			[
+				255,
+				171,
+				240
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Bittersweet Badinage"
+}
